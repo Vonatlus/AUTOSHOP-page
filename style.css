@@ -58,6 +58,8 @@ img {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
+    -webkit-filter: drop-shadow(2px 4px 6px black);
+    -moz-filter: drop-shadow(2px 4px 6px black);
     filter: drop-shadow(2px 4px 6px black);
 }
 
