@@ -58,6 +58,7 @@ img {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
+    filter: drop-shadow(2px 4px 6px black);
 }
 
 .wrap-top {
